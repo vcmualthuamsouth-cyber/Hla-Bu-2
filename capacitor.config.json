@@ -1,0 +1,7 @@
+{
+  "appId": "com.mfeb.hlabu",
+  "appName": "MFEB HLA BU",
+  "webDir": "www",
+  "backgroundColor": "#151515",
+  "android": { "backgroundColor": "#151515" }
+}
