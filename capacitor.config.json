@@ -1,0 +1,15 @@
+{
+  "appId": "com.mfeb.hlabu",
+  "appName": "MFEB HLA BU",
+  "webDir": "www",
+  "backgroundColor": "#00000000",
+  "android": {
+    "backgroundColor": "#00000000"
+  },
+  "plugins": {
+    "StatusBar": {
+      "overlaysWebView": true,
+      "backgroundColor": "#00000000"
+    }
+  }
+}
